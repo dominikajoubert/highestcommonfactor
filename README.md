@@ -5,6 +5,15 @@
 
 git clone git@gitlab.com:investectestgroup/highestcommonfactor.git
 
+## To build project jar, run below
+
+gradle clean build
+
+## Jar built in below folder
+
+\highestcommonfactor\build\libs
+
+
 ## Run jar
 
 java -jar  highestcommonfactor.jar
