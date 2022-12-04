@@ -7,7 +7,7 @@ git clone git@gitlab.com:investectestgroup/highestcommonfactor.git
 
 ## Run jar
 
-java -jar  HighestCommonFactor.jar
+java -jar  highestcommonfactor.jar
 
 Data to be entered by user:
 1) You will be prompted to enter the number you wish to use to find out the highest common factor.
