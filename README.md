@@ -1,9 +1,13 @@
 # HighestCommonFactor
 
 
-## Git Repo
+## Git Repo Clone https:
 
-git clone git@gitlab.com:investectestgroup/highestcommonfactor.git
+git clone https://github.com/dominikajoubert/highestcommonfactor.git
+
+## Git Repo Clone ssh:
+ssh clone (requires ssh key setup on user profile in github)
+git clone git@github.com:dominikajoubert/highestcommonfactor.git
 
 ## To build project jar, run below
 

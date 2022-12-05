@@ -48,7 +48,7 @@ public class HighestCommonFactorManager {
 			String[] stringArrayNumbers = stringOfNumbers.split(",");
 			int[] intArray = new int[stringArrayNumbers.length];
 			for (int i = 0; i < stringArrayNumbers.length; i++) {
-				intArray[i] = Integer.parseInt(stringArrayNumbers[i]);
+				intArray[i] = Integer.parseInt(stringArrayNumbers[i].trim());
 			}
 			return intArray;
 		} catch (Exception e) {
